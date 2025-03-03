@@ -29,7 +29,7 @@ matplotlib
 soundfile
 Usage -->
 <h4>Clone the Repository:</h4>
-<code></code>
+<code>git clone https://github.com/HiteshReddy28/Speech_Emotion_Recognition.git</code>
 
 <h4>Run the Notebook:</h4>
 <p>Open the Jupyter Notebook (SER.ipynb) in your preferred environment (e.g., Jupyter Lab, Google Colab).</p>
